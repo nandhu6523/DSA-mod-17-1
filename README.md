@@ -1,4 +1,4 @@
-# DSA-mod-17-1
+# Data Structures Using Python-mod-17-1
 # AIM:
 To write a Python program to perform Depth First Search (DFS) traversal from a given source vertex using a helper function DFSUtil.
 
